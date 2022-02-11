@@ -1,0 +1,10 @@
+package constants
+
+const (
+	TEAMS_PATH = "data/teams.json"
+	HIGH_PT_MULTIPLIER_THRESHOLD = 15.0
+	HIGH_REB_MULTIPLIER_THRESHOLD = 8
+	HIGH_ASST_MULTIPLIER_THRESHOLD =  5
+	FORWARD = "Forward"
+	CENTER = "Center"
+)
